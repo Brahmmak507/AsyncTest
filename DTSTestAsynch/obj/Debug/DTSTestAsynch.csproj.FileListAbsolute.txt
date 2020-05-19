@@ -1,0 +1,10 @@
+C:\Users\brkallur\source\repos\DTSTestAsynch\DTSTestAsynch\bin\Debug\DTSTestAsynch.exe.config
+C:\Users\brkallur\source\repos\DTSTestAsynch\DTSTestAsynch\bin\Debug\DTSTestAsynch.exe
+C:\Users\brkallur\source\repos\DTSTestAsynch\DTSTestAsynch\bin\Debug\DTSTestAsynch.pdb
+C:\Users\brkallur\source\repos\DTSTestAsynch\DTSTestAsynch\bin\Debug\customclassLib.dll
+C:\Users\brkallur\source\repos\DTSTestAsynch\DTSTestAsynch\bin\Debug\customclassLib.pdb
+C:\Users\brkallur\source\repos\DTSTestAsynch\DTSTestAsynch\obj\Debug\DTSTestAsynch.csprojAssemblyReference.cache
+C:\Users\brkallur\source\repos\DTSTestAsynch\DTSTestAsynch\obj\Debug\DTSTestAsynch.csproj.CoreCompileInputs.cache
+C:\Users\brkallur\source\repos\DTSTestAsynch\DTSTestAsynch\obj\Debug\DTSTestAsynch.csproj.CopyComplete
+C:\Users\brkallur\source\repos\DTSTestAsynch\DTSTestAsynch\obj\Debug\DTSTestAsynch.exe
+C:\Users\brkallur\source\repos\DTSTestAsynch\DTSTestAsynch\obj\Debug\DTSTestAsynch.pdb

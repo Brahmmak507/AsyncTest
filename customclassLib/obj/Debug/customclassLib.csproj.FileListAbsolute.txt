@@ -1,0 +1,6 @@
+C:\Users\brkallur\source\repos\DTSTestAsynch\customclassLib\bin\Debug\customclassLib.dll
+C:\Users\brkallur\source\repos\DTSTestAsynch\customclassLib\bin\Debug\customclassLib.pdb
+C:\Users\brkallur\source\repos\DTSTestAsynch\customclassLib\obj\Debug\customclassLib.csprojAssemblyReference.cache
+C:\Users\brkallur\source\repos\DTSTestAsynch\customclassLib\obj\Debug\customclassLib.csproj.CoreCompileInputs.cache
+C:\Users\brkallur\source\repos\DTSTestAsynch\customclassLib\obj\Debug\customclassLib.dll
+C:\Users\brkallur\source\repos\DTSTestAsynch\customclassLib\obj\Debug\customclassLib.pdb
